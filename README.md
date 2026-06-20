@@ -29,11 +29,11 @@ kubernetes-networking
 ├── README.md
 
 └── assets
-    ├── pod_running.png
-    ├── service_running.png
+    ├── pod-yaml.png
+    ├── service_created.png
     ├── endpoints.png
-    ├── kubectl_api_resources.png
-    └── kubectl_get_all.png
+    ├── api-resources.png
+    └── get-all.png
 ```
 
 ---
